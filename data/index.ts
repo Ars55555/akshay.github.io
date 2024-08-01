@@ -82,24 +82,24 @@ export const navItems = [
       id: 2,
       title: "Meme Generator",
       des: "The Meme Generator Project is a creative and entertaining web application designed to empower users with the ability to effortlessly create and share humorous memes",
-      img: "/p2.svg",
-      iconLists: ["/nodejs.svg", "/react.svg", "/mongodb.svg", "/javascript.svg", "/bootstrap.svg"],
+      img: "./p2.svg",
+      iconLists: ["./nodejs.svg", "./react.svg", "./mongodb.svg", "./javascript.svg", "./bootstrap.svg"],
       link: "https://meme-inventor.netlify.app/",
     },
     {
       id: 3,
       title: "Pet Adoption",
       des: "Pet Adoption is a platform where potential pet owners can easily find and adopt animals, offering a variety of pets from shelters and rescues",
-      img: "/p3.svg",
-      iconLists: ["/nodejs.svg", "/react.svg", "/mongodb.svg", "/javascript.svg", "/bootstrap.svg"],
+      img: "./p3.svg",
+      iconLists: ["./nodejs.svg", "./react.svg", "./mongodb.svg", "./javascript.svg", "./bootstrap.svg"],
       link: "",
     },
     {
       id: 4,
       title: "New Project Coming Soon",
       des: " Site will be built using the MERN stack ",
-      img: "/p4.svg",
-      iconLists: ["/nodejs.svg", "/react.svg", "/mongodb.svg", "/javascript.svg", "/bootstrap.svg"],
+      img: "./p4.svg",
+      iconLists: ["./nodejs.svg", "./react.svg", "./mongodb.svg", "./javascript.svg", "./bootstrap.svg"],
       link: "",
     },
   ];
@@ -142,43 +142,43 @@ export const navItems = [
     {
       id: 1,
       name: "aws cloud",
-      img: "/awscloud.svg",
+      img: "./awscloud.svg",
       // nameImg: "/awsname.svg",
     },
     {
       id: 2,
       name: "java",
-      img: "/java.svg",
+      img: "./java.svg",
       // nameImg: "/appName.svg",
     },
     {
       id: 3,
       name: "react",
-      img: "/react.svg",
+      img: "./react.svg",
       // nameImg: "/hostName.svg",
     },
     {
       id: 4,
       name: "node",
-      img: "/nodejs.svg",
+      img: "./nodejs.svg",
       // nameImg: "/streamName.svg",
     },
     {
       id: 5,
       name: "mysql",
-      img: "/mysql.svg",
+      img: "./mysql.svg",
       // nameImg: "/dockerName.svg",
     },
     {
       id: 6,
       name: "javascript",
-      img: "/javascript.svg",
+      img: "./javascript.svg",
       // nameImg: "/dockerName.svg",
     },
     {
       id: 7,
       name: "mongodb",
-      img: "/mongodb.svg",
+      img: "./mongodb.svg",
       // nameImg: "/dockerName.svg",
     },
   ];
@@ -189,7 +189,7 @@ export const navItems = [
       title: "Persistent Summer Intern",
       desc: "Learn the development of a Java Programming and MySql Database.",
       className: "md:col-span-2",
-      thumbnail: "/exp1.svg",
+      thumbnail: "./exp1.svg",
       website: "https://drive.google.com/file/d/1Hh9kU0r-MQSWgg18KxY9ZP3xNWRp9QYg/view",
     },
     {
@@ -197,7 +197,7 @@ export const navItems = [
       title: "Java Development",
       desc: "A skilled Java developer in Java Programming , specializing in building robust APIs and scalable systems using Java frameworks like Spring Boot and Hibernate. Proficient in databases and passionate about continuous learning. ",
       className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp2.svg",
+      thumbnail: "./exp2.svg",
       website: "https://drive.google.com/file/d/149C6_qLSCt-H6nWgCRvA8mSrui1HiHeV/view?usp=sharing",
     },
     {
@@ -205,7 +205,7 @@ export const navItems = [
       title: "Web Dev Projects",
       desc: "Led the development of a Web app for a college Projects, from initial concept to deployment on server.",
       className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp3.svg",
+      thumbnail: "./exp3.svg",
       website: "",
     },
     {
@@ -213,7 +213,7 @@ export const navItems = [
       title: "Web Development",
       desc: "Developed and maintained user-facing features using modern Web Development technologies.",
       className: "md:col-span-2",
-      thumbnail: "/exp4.svg",
+      thumbnail: "./exp4.svg",
       website: "",
     },
   ];
@@ -221,13 +221,13 @@ export const navItems = [
   export const socialMedia = [
     {
       id: 1,
-      img: "/git.svg",
+      img: "./git.svg",
       link: "https://github.com/Ars55555" ,
       
     },
     {
       id: 2,
-      img: "/link.svg",
+      img: "./link.svg",
       link: "https://www.linkedin.com/in/akshay-raj-singh-0939451b9/" ,
     },
   ];
